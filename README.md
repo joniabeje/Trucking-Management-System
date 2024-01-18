@@ -1,0 +1,1 @@
+This project is about a Truck dealership. I made a system that tracks each trucks that leaves the dealership with its make, model, and other attributes with coupled_to and a coupled_from date to be able to charge appropriate prices for the time the customer rented the vehicle.
